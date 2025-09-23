@@ -69,5 +69,5 @@
 
 <h3 align="left">Contribution Streak:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shaijalchouksey&theme=dark&cache_bust=1" alt="shaijalchouksey GitHub Streak" />
+  <img src="https://streak-counter.demolab.com/?user=shaijalchouksey&theme=dark-smoky" alt="shaijalchouksey GitHub Streak" />
 </p>
