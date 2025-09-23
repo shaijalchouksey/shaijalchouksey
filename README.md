@@ -74,5 +74,5 @@
 
 <h3 align="left">Contribution Streak:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=shaijalchouksey&theme=dark" alt="shaijalchouksey GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shaijalchouksey&theme=dark" alt="shaijalchouksey GitHub Streak" />
 </p>
