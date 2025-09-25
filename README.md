@@ -67,7 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaijalchouksey&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="shaijalchouksey Top Languages" />
 </p>
 
-<h3 align="left">Contribution Streak:</h3>
-<p align="center">
-  <img src="https://streak-counter.demolab.com/?user=shaijalchouksey&theme=dark-smoky" alt="shaijalchouksey GitHub Streak" />
-</p>
