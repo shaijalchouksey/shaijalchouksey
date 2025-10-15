@@ -9,7 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shaijalchouksey&theme=dark" alt="shaijalchouksey" />
   </a>
 </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [https://portfolio-shaijal-choukseys-projects.vercel.app/](https://portfolio-shaijal-choukseys-projects.vercel.app/)
 - 💬 Ask me about **Python , Flask , MERN ,**
