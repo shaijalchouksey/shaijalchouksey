@@ -10,10 +10,15 @@
   </a>
 </p>
 - 🌱 I’m currently learning **Deep Learning**
+
 - 👨‍💻 All of my projects are available at [https://portfolio-shaijal-choukseys-projects.vercel.app/](https://portfolio-shaijal-choukseys-projects.vercel.app/)
+  
 - 💬 Ask me about **Python , Flask , MERN ,**
+  
 - 📫 How to reach me **choukseysejal481@gmail.com**
+  
 - 📄 Know about my experiences [https://drive.google.com/file/d/12RfixS1Peo740vYo3aOAA4KLJRZ-3973/view?usp=drivesdk](https://drive.google.com/file/d/12RfixS1Peo740vYo3aOAA4KLJRZ-3973/view?usp=drivesdk)
+  
 - ⚡ Fun fact **I'm always up for learning something new!**
 
 <h3 align="left">Connect with me:</h3>
