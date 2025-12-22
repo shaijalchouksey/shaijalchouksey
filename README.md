@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shaijal-choukseys-projects.vercel.app/](https://portfolio-shaijal-choukseys-projects.vercel.app/)
   
-- 💬 Ask me about **Python , Flask , MERN ,**
+- 💬 Ask me about **MERN , Python , Flask **
   
 - 📫 How to reach me **choukseysejal481@gmail.com**
   
