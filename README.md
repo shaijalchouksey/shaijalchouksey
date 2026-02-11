@@ -64,7 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaijalchouksey&show_icons=true&locale=en&theme=radical" alt="shaijalchouksey GitHub Stats" />
 </p>
-
 <h3 align="left">Top Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaijalchouksey&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="shaijalchouksey Top Languages" />
