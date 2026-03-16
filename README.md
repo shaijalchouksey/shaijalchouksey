@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shaijalchouksey&theme=dark" alt="shaijalchouksey" />
   </a>
 </p>
-- 🌱Expanding my expertise in Artificial Intelligence with a focus on Deep Learning.
+- 🕸️Exploring Deep Learning models.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shaijal-choukseys-projects.vercel.app/](https://portfolio-shaijal-choukseys-projects.vercel.app/)
   
